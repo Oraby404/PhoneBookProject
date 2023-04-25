@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1577038531 source:d:\computer programming projects\term-3\phonebookproject\construct.c
+	"Header.h"
+
+1577021978 d:\computer programming projects\term-3\phonebookproject\header.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1577038531 source:d:\computer programming projects\term-3\phonebookproject\fileprocessing.c
+	"Header.h"
+
+1577022398 source:d:\computer programming projects\term-3\phonebookproject\main.c
+	"Header.h"
+
+1577021978 source:d:\computer programming projects\term-3\phonebookproject\modify.c
+	"Header.h"
+
+1577021978 source:d:\computer programming projects\term-3\phonebookproject\search.c
+	"Header.h"
+
+1577021978 source:d:\computer programming projects\term-3\phonebookproject\sort.c
+	"Header.h"
+
